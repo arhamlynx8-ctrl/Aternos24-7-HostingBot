@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "itsarham.aternos.me",
+    "port":  29498,
     "version": "",
     "try-creative": false
   },
